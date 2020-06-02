@@ -16,7 +16,7 @@ A tiny wrapper around the native [Intl.DateTimeFormat](https://developer.mozilla
 
 # Features
 
-- 🎉 Uses **native** the `Intl.DateTimeFormat` API.
+- 🎉 Uses the **native** `Intl.DateTimeFormat` API.
 - 🚀 **Zero dependencies**, super tiny.
 - 💪 Written in **TypeScript**.
 
